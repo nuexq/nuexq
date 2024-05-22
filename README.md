@@ -10,5 +10,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=No0ne003&theme=aura&hide_border=true&border_radius=0)<br/>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=No0ne003&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=No0ne003&style=for-the-badge&color=blueviolet)
