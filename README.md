@@ -5,12 +5,11 @@
 ```toml
 
 [stack]
-languages = ['C','JS/TS', 'TS', 'lua']
+languages = ['C','JS/TS', 'lua', 'python?']
 web = ['React', 'Nextjs', 'Tailwindcss']
-tools = ['linux', 'arch linux', 'Git/Github', 'Bun', 'mongoodb]
+tools = ['linux', 'archLinux', 'Git/Github', 'Bun', 'mongoodb']
 ```
 
-I'm currently learning `low level things`
  
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No0ne003&theme=aura&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=No0ne003&show_icons=true&hide=contribs&theme=aura&hide_border=true&text_bold=false" height="160" />
