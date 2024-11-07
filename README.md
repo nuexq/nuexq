@@ -3,7 +3,6 @@
 </p>
 
 ```toml
-
 [stack]
 languages = ['C','JS/TS', 'lua', 'python?']
 web = ['React', 'Nextjs', 'Tailwindcss']
