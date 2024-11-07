@@ -3,10 +3,14 @@
 </p>
 
 ```toml
+name = 'No0ne'
+age = 16
+now = ['building portfolio', 'learning low level things']
+
 [stack]
 languages = ['C','JS/TS', 'lua', 'python?']
-web = ['React', 'Nextjs', 'Tailwindcss']
-tools = ['linux', 'archLinux', 'Git/Github', 'Bun', 'mongoodb']
+web = ['React', 'Nextjs', 'Tailwindcss', 'mongoodb']
+tools = ['linux', 'archLinux', 'Git/Github', 'Bun']
 ```
 
  
