@@ -5,7 +5,7 @@
 ```toml
 
 [stack]
-language = ['C','JS/TS', 'TS', 'lua']
+languages = ['C','JS/TS', 'TS', 'lua']
 web = ['React', 'Nextjs', 'Tailwindcss']
 tools = ['linux', 'arch linux', 'Git/Github', 'Bun', 'mongoodb]
 ```
