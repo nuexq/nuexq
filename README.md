@@ -5,12 +5,12 @@
 ```toml
 name = 'No0ne'
 age = 16
-now = ['building portfolio', 'learning low level things']
+now = ['Learning Rust', 'low level things']
 
 [stack]
 languages = ['C','JS/TS', 'lua', 'python?']
 web = ['React', 'Nextjs', 'Tailwindcss']
-tools = ['neovim', 'archLinux', 'Git/Github', 'Bun']
+tools = ['neovim', 'archLinux', 'Git/Github']
 ```
 
  
