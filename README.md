@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=5D1EC1&center=true&vCenter=true&repeat=false&random=false&width=490&lines=I'll+come+up+with+something+to+write+here;-_-;" />
-</p>
-
 ```toml
 name = 'nuexq'
 age = 16
