@@ -1,7 +1,7 @@
 ```toml
 name = 'nuexq'
 age = 16
-now = ['Learning Rust', 'low level things']
+now = ['Learning Rust', 'basic graphic programming w/ webgpu']
 
 [stack]
 languages = ['C','JS/TS', 'lua', 'python?']
