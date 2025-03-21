@@ -5,7 +5,7 @@ now = ['Learning Rust', 'basic graphic programming w/ webgpu']
 
 [stack]
 languages = ['C','JS/TS', 'lua', 'python?']
-web = ['React', 'Nextjs', 'Tailwindcss']
+web = ['React', 'Nextjs', 'Astro', 'Tailwindcss']
 tools = ['neovim', 'archLinux', 'Git/Github']
 ```
 
