@@ -4,7 +4,7 @@ age = 16
 now = ["Learning Rust"]
 
 [stack]
-languages = ["c","JS/TS", "rust"]
+languages = ["C","JS/TS", "Rust"]
 web = ["React", "Nextjs", "Astro", "Tailwindcss"]
 tools = ["neovim", "archLinux", "Git/Github"]
 ```
