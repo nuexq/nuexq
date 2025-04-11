@@ -1,12 +1,12 @@
 ```toml
-name = 'nuexq'
+name = "nuexq"
 age = 16
-now = ['Learning Rust', 'basic graphic programming w/ webgpu']
+now = ["Learning Rust"]
 
 [stack]
-languages = ['C','JS/TS', 'lua', 'python?']
-web = ['React', 'Nextjs', 'Astro', 'Tailwindcss']
-tools = ['neovim', 'archLinux', 'Git/Github']
+languages = ["c","JS/TS", "rust"]
+web = ["React", "Nextjs", "Astro", "Tailwindcss"]
+tools = ["neovim", "archLinux", "Git/Github"]
 ```
 
  
