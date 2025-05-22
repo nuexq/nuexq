@@ -1,7 +1,7 @@
 ```toml
 name = "nuexq"
 age = 16
-now = ["Learning Rust"]
+now = ["fucking regional exam"]
 
 [stack]
 languages = ["C","JS/TS", "Rust"]
