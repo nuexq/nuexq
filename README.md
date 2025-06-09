@@ -6,7 +6,7 @@ now = ["nix"]
 [stack]
 languages = ["C","JS/TS", "Rust"]
 web = ["React", "Nextjs", "Astro", "Tailwindcss"]
-tools = ["Neovim", "Git/Github", "nix"]
+tools = ["Neovim", "Git/Github", "NixOS"]
 ```
 
  
