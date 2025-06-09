@@ -1,12 +1,12 @@
 ```toml
 name = "nuexq"
 age = 16
-now = ["fucking regional exam"]
+now = ["nix"]
 
 [stack]
 languages = ["C","JS/TS", "Rust"]
 web = ["React", "Nextjs", "Astro", "Tailwindcss"]
-tools = ["neovim", "archLinux", "Git/Github"]
+tools = ["Neovim", "Git/Github", "nix"]
 ```
 
  
