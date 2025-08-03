@@ -4,7 +4,7 @@ age = 17
 now = ["nix"]
 
 [stack]
-languages = ["C","JS/TS", "Rust"]
+languages = ["C", "JS/TS", "Rust"]
 web = ["React", "Nextjs", "Astro", "Tailwindcss"]
 tools = ["Neovim", "Git/Github", "NixOS"]
 ```
